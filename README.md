@@ -9,5 +9,14 @@
 -->
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Expert-Guided Bayesian Optimisation for Human-In-The-Loop Experimental Design of Engineering Systems.
+Code for _Expert-Guided Bayesian Optimisation for Human-In-The-Loop Experimental Design of Engineering Systems._
 
+### Requirements 
+- A working Anaconda distribution
+
+### Instructions 
+
+1. ```$ git clone git@github.com:OptiMaL-PSE-Lab/humbo.git```
+2. ```$ conda env create -f enviroment.yml```
+
+The main HUMBO loop is at `bo/humbo.py`
