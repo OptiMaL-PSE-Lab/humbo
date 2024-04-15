@@ -9,7 +9,7 @@
 -->
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Code for _Expert-Guided Bayesian Optimisation for Human-In-The-Loop Experimental Design of Engineering Systems._
+Code for Expert-Guided Bayesian Optimisation for Human-In-The-Loop Experimental Design of Engineering Systems.
 
 ### Requirements 
 - A working Anaconda distribution
